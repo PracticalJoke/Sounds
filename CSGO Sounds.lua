@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zeoxings/Gun-Sounds/main/CSGO%20Sounds.lua"))()
